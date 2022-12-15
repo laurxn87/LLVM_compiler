@@ -6,6 +6,6 @@ To run:
 
 To run full testing:
 - make
-- ./tests/test.sh
+- ./tests/tests.sh
 
  
